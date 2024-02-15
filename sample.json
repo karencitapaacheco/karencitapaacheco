@@ -1,0 +1,16 @@
+{
+    "entries": [
+      {
+        "title": "Título de la serie o película",
+        "description": "Descripción de la serie o película",
+        "releaseYear": 2020,
+        "programType": "series",
+        "images": {
+          "Poster Art": {
+            "url": "https://www.peliculas.com/sample.json"
+          }
+        }
+      }
+    ]
+  }
+  
